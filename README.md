@@ -2,7 +2,7 @@
 
 **Energetic Engineer | Music Producer | Content Creator**
 
-I am an engineer with 8+ years of experience in SCADA systems, renewable energy, and data analysis. I bridge the gap between technical engineering, music production, and digital productivity.
+I am an engineer with 8+ years of experience in SCADA systems, renewable energy, and data analysis. Besides that I love personal finances, music production and content creation for engineers.
 
 ---
 
