@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Geosteb 👋
 
-<!--
-**geosteb/geosteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Energetic Engineer | Music Producer | Content Creator**
 
-Here are some ideas to get you started:
+I am an engineer with 8+ years of experience in SCADA systems, renewable energy, and data analysis. I bridge the gap between technical engineering, music production, and digital productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+#### 🇪🇸 [Wikingeniería - Notion Widgets](https://geosteb.github.io/wikingenieria-notion-widgets/)
+A suite of productivity tools (Pomodoro, Semester Progress Bars) specifically designed for engineering students using Notion.
+
+#### 📊 [Personal Finance Tracker (ES)](https://github.com/geosteb/personal-finances-es)
+A Python-based utility to process CSV data from **Coinbase** and **Degiro**, applying the **FIFO (First-In-First-Out)** method for Spanish tax compliance.
+
+#### 🎛️ [Gyos Audio Tools](https://github.com/geosteb/gyos-audio-tools)
+Music production utilities and audio analyzers. *(Coming soon)*
+
+---
+
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-s-burada/)
