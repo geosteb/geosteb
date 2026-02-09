@@ -8,7 +8,7 @@ I am an engineer with 8+ years of experience in SCADA systems, renewable energy,
 
 ### 🚀 Featured Projects
 
-#### ⚙️ [Wikingeniería - Web](https://geosteb.github.io/wikingenieria-web/index.html#/) [ES]
+#### 👨‍💻 [Wikingeniería - Web](https://geosteb.github.io/wikingenieria-web/index.html#/) [ES]
 The official web platform for Wikingeniería, a leading Spanish-speaking community of over 370,000 members dedicated to engineering, science, and technology. 
 
 #### ⚙️ [Wikingeniería - Notion Widgets](https://geosteb.github.io/wikingenieria-notion-widgets/) [ES]
