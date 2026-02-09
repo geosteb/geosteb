@@ -8,6 +8,9 @@ I am an engineer with 8+ years of experience in SCADA systems, renewable energy,
 
 ### 🚀 Featured Projects
 
+#### ⚙️ [Wikingeniería - Web](https://geosteb.github.io/wikingenieria-web/index.html#/) [ES]
+The official web platform for Wikingeniería, a leading Spanish-speaking community of over 370,000 members dedicated to engineering, science, and technology. 
+
 #### ⚙️ [Wikingeniería - Notion Widgets](https://geosteb.github.io/wikingenieria-notion-widgets/) [ES]
 A suite of productivity tools (Pomodoro, Semester Progress Bars) specifically designed for engineering students using Notion.
 
@@ -15,7 +18,7 @@ A suite of productivity tools (Pomodoro, Semester Progress Bars) specifically de
 A Python-based utility to process CSV data from **Coinbase** and **Degiro**, applying the **FIFO (First-In-First-Out)** method for Spanish tax compliance.
 
 #### 🎛️ [Gyos Audio Tools](https://github.com/geosteb/gyos-audio-tools) [EN]
-Music production utilities and audio analyzers. *(Coming soon)*
+Music production utilities and tools. *(Coming)*
 
 ---
 
